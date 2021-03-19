@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+We are doing some exciting things here at Premier.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Keep an eye out right here for future projects.
