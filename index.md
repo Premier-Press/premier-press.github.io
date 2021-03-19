@@ -1,3 +1,3 @@
-We are doing some exciting things here at Premier.
+Post titles include the brand (SQL/Monarch/Progress)
 
-Keep an eye out right here for future projects.
+to facilitate searching for the code you need
